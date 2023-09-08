@@ -1,0 +1,25 @@
+{
+  "name": "coronel-api",
+  "version": "1.0.0",
+  "description": "API for coronel app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jpchagas/coronel-api.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "sequelize",
+    "rest"
+  ],
+  "author": "João Pedro Chagas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpchagas/coronel-api/issues"
+  },
+  "homepage": "https://github.com/jpchagas/coronel-api#readme"
+}
